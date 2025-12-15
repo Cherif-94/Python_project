@@ -45,3 +45,5 @@ for v in voitures:
 # Itération sur une liste d'objets ( accès aux attributs directement )
 for v in voitures:
     print(v.marque, v.modele)    
+
+# Hello c'est Dafni je reprends le code de Cherif    .
